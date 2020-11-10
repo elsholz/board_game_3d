@@ -1,5 +1,5 @@
 # board_game_3d
-Board game made of 3d printed parts
+Open Source Board game made of 3d printed parts.
 
 # Map
 Default 4 Players Bases. 
@@ -19,25 +19,25 @@ There are also some additional forests distributed on the map.
 |Settler|Resources|Can be moved around freely|2 Food|
 
 # Resources
+All Resources are available as tokens.
 - Gold
 	- mined in gold mines
-	- finite (realised through tokens)
+	- finite 
 - Food
 	- harvested on fields
 	- infinite
 - Wood
 	- harvested in forests
-	- infinite but scarce (realised through tokens)
+	- infinite but scarce
 
 # Buildings
 |Name|Construction Cost|Description|
 |---|---|---|
 |Corn Field|2 Wood|max 2 workers per field<br>1 food per worker per move|
 |Wall Layer|6 Wood|Can be placed on segment borders<br>Up to 3 layers per wall|
-
-|Defense Tower|10 Wood 4 Food|Can be placed behind walls<br>max 2 towers per wall|
+|Defense Tower|10 Woodm 4 Food|Can be placed behind walls<br>max 2 towers per wall|
 |Barracks|10 Wood|Can Produce troops of any kind<br>max 2 troops per barrack per move|
-|City Hall|15 Wood 15 Gold|Necessary to construct buildings on a base<br>Used to produce Settlers<br>max 3 settler per city center per move|
+|City Hall|15 Wood, 15 Gold|Necessary to construct buildings on a base<br>Used to produce Settlers<br>max 3 settler per city center per move|
 |Gold Mine|4 Wood|max 2 workers<br>1 gold per worker per move<br>capacity 50 gold<br>Can be placed on a mine|
 |Forest Sawmill|4 Wood|max 5 workers<br>1 wood per worker per move<br>capacity 30 wood<br>grows 3 wood per move<br>Can be placed in a forest|
  

@@ -34,6 +34,7 @@ There are also some additional forests distributed on the map.
 |---|---|---|
 |Corn Field|2 Wood|max 2 workers per field<br>1 food per worker per move|
 |Wall Layer|6 Wood|Can be placed on segment borders<br>Up to 3 layers per wall|
+
 |Defense Tower|10 Wood 4 Food|Can be placed behind walls<br>max 2 towers per wall|
 |Barracks|10 Wood|Can Produce troops of any kind<br>max 2 troops per barrack per move|
 |City Hall|15 Wood 15 Gold|Necessary to construct buildings on a base<br>Used to produce Settlers<br>max 3 settler per city center per move|
@@ -42,3 +43,6 @@ There are also some additional forests distributed on the map.
  
 # Start
 Every player starts with 5 Wood, 10 Food and 0 Gold. In his base he will already have a constructed gold mine, sawmill and city hall.
+
+# optional additional rules
+1. Every segment has a name (equal to a village) by having conquered (meaning having troops on this segment) it the player will receive a to this segment specific bonus ressource (like taxes). At the start of the match these segments are being defended by neutral troops, the further you reach from a players base the stronger the defense will be.

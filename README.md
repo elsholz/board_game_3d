@@ -46,3 +46,4 @@ Every player starts with 5 Wood, 10 Food and 0 Gold. In his base he will already
 
 # optional additional rules
 1. Every segment has a name (equal to a village) by having conquered (meaning having troops on this segment) it the player will receive a to this segment specific bonus ressource (like taxes). At the start of the match these segments are being defended by neutral troops, the further you reach from a players base the stronger the defense will be.
+2. Fighting will be calculated algorithmically. On special events the player has to roll the dice, depending on the result the event can be rough or not so rough, this will be calculated by an algorithm aswell. 
